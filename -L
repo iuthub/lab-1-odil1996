@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Location: https://www.facebook.com/
+Content-Type: text/html; charset="utf-8"
+X-FB-Debug: taa274YrZK1DmT7C3wmy7ccUs1v/1dv8sbQCLKcafhwJ3JjsoKQwdTGjPEA1/hy/IA5T6+4nSJ18BO8NvW4s+A==
+Alt-Svc: h3-24=":443"; ma=3600
+Date: Mon, 03 Feb 2020 11:58:02 GMT
+Content-Length: 0
+Connection: Keep-Alive
+
